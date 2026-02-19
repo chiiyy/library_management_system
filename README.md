@@ -105,3 +105,7 @@ The script comes with pre loaded data such as:
 - Foreign keys and validation rules
 - Trigger based automation
 - Managing transaction workflows
+
+## ERD
+![ERD](Screenshots/ERD.png)
+
